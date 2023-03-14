@@ -10,7 +10,15 @@ public class TiposVariaveis {
         int numeroCurto2 = numeroNormal;
 
         int numero = 5;
-        numero = 10;
+        System.out.println(numero);
+
+        numero = - numero;
+        System.out.println(numero);
+
+        numero = + numero;                  /*numero sem alteração */
+        System.out.println(numero);
+
+        numero = numero * - 1;              /*Transformando o numero em positivo */
         System.out.println(numero);
 
         final double VALOR_DE_PI = 3.14;
