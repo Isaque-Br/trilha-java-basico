@@ -2,7 +2,8 @@ public class OperadorTernario {
 
     public static void main(String[] args) {
         
-        /*forma resumida para definir uma condição escolher entre dois valores como um IF normal escrito em uma linha */
+        /*forma resumida para definir uma condição 
+        escolher entre dois valores como um IF normal escrito em uma linha */
         
         int a, b, c, d;
         a = 6;
